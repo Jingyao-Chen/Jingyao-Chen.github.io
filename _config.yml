@@ -3,18 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Jingyao
+middle_name:
+last_name: Chen （陈婧瑶)
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  chenjingyao@bcpca.ac.cn, 2009853pmi30003@student.must.edu.mo, 
+  Feel free to contact me for academic collaboration, project communication and research discussion.
+  https://ieeexplore.ieee.org/author/37089711649
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Academic homepage of Jingyao Chen, focusing on human locomotor pattern analysis, brain-electrophysiology signal decoding, biomedical AI, intelligent rehabilitation assessment system.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: biomedical AI, motor synergy, brain-electrophysiology signal decoding, intelligent rehabilitation assessment
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
