@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, Institute of Automation, Chinese Academy of Sciences.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_chen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: chenjingyao@bcpca.ac.cn</p>
+    <p>Student Email: 2009853pmi30003@student.must.edu.mo</p>
+    <p>IEEE Author Page: <a href="https://ieeexplore.ieee.org/author/37089711649" target="_blank">IEEE Xplore Profile</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
